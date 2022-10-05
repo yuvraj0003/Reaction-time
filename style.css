@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    text-align: center;
+    margin-top: 22%;
+    font-family: 'Rubik', sans-serif;
+}
+.pressed{
+    background-color: rgb(81, 81, 251);
+    color: rgb(81, 81, 251);
+}
